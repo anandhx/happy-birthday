@@ -1,6 +1,6 @@
 {
   "greeting": "Hey",
-  "name": "Krishnapriya ", 
+  "name": "Krishnapriya", 
   "greetingText": "Your big day is finally here!", 
   "wishText": "Cheers to your special day, dear  :D ;)", 
   "imagePath": "img/nandhuuu.jpg",
@@ -11,8 +11,8 @@
   "text3": "But then I stopped.",
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
-  "text5Entry": " ",
-  "text5Content": "",
+  "text5Entry": "for",
+  "text5Content": "you",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
